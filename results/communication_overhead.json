@@ -1,0 +1,119 @@
+[
+  {
+    "algorithm": "BIKE-L1",
+    "nist_level": 1,
+    "public_key_bytes": 1541,
+    "ciphertext_bytes": 1573,
+    "total_extra_bytes": 3114,
+    "vs_rsa_2048_ratio": 6.08,
+    "vs_ecdh_p256_ratio": 97.31
+  },
+  {
+    "algorithm": "BIKE-L3",
+    "nist_level": 3,
+    "public_key_bytes": 3083,
+    "ciphertext_bytes": 3115,
+    "total_extra_bytes": 6198,
+    "vs_rsa_2048_ratio": 12.11,
+    "vs_ecdh_p256_ratio": 193.69
+  },
+  {
+    "algorithm": "BIKE-L5",
+    "nist_level": 5,
+    "public_key_bytes": 5122,
+    "ciphertext_bytes": 5154,
+    "total_extra_bytes": 10276,
+    "vs_rsa_2048_ratio": 20.07,
+    "vs_ecdh_p256_ratio": 321.12
+  },
+  {
+    "algorithm": "Classic-McEliece-348864",
+    "nist_level": 1,
+    "public_key_bytes": 261120,
+    "ciphertext_bytes": 96,
+    "total_extra_bytes": 261216,
+    "vs_rsa_2048_ratio": 510.19,
+    "vs_ecdh_p256_ratio": 8163.0
+  },
+  {
+    "algorithm": "Classic-McEliece-348864f",
+    "nist_level": 1,
+    "public_key_bytes": 261120,
+    "ciphertext_bytes": 96,
+    "total_extra_bytes": 261216,
+    "vs_rsa_2048_ratio": 510.19,
+    "vs_ecdh_p256_ratio": 8163.0
+  },
+  {
+    "algorithm": "Classic-McEliece-460896",
+    "nist_level": 3,
+    "public_key_bytes": 524160,
+    "ciphertext_bytes": 156,
+    "total_extra_bytes": 524316,
+    "vs_rsa_2048_ratio": 1024.05,
+    "vs_ecdh_p256_ratio": 16384.88
+  },
+  {
+    "algorithm": "Classic-McEliece-460896f",
+    "nist_level": 3,
+    "public_key_bytes": 524160,
+    "ciphertext_bytes": 156,
+    "total_extra_bytes": 524316,
+    "vs_rsa_2048_ratio": 1024.05,
+    "vs_ecdh_p256_ratio": 16384.88
+  },
+  {
+    "algorithm": "Classic-McEliece-6688128",
+    "nist_level": 5,
+    "public_key_bytes": 1044992,
+    "ciphertext_bytes": 208,
+    "total_extra_bytes": 1045200,
+    "vs_rsa_2048_ratio": 2041.41,
+    "vs_ecdh_p256_ratio": 32662.5
+  },
+  {
+    "algorithm": "Classic-McEliece-6688128f",
+    "nist_level": 5,
+    "public_key_bytes": 1044992,
+    "ciphertext_bytes": 208,
+    "total_extra_bytes": 1045200,
+    "vs_rsa_2048_ratio": 2041.41,
+    "vs_ecdh_p256_ratio": 32662.5
+  },
+  {
+    "algorithm": "Classic-McEliece-6960119",
+    "nist_level": 5,
+    "public_key_bytes": 1047319,
+    "ciphertext_bytes": 194,
+    "total_extra_bytes": 1047513,
+    "vs_rsa_2048_ratio": 2045.92,
+    "vs_ecdh_p256_ratio": 32734.78
+  },
+  {
+    "algorithm": "Classic-McEliece-6960119f",
+    "nist_level": 5,
+    "public_key_bytes": 1047319,
+    "ciphertext_bytes": 194,
+    "total_extra_bytes": 1047513,
+    "vs_rsa_2048_ratio": 2045.92,
+    "vs_ecdh_p256_ratio": 32734.78
+  },
+  {
+    "algorithm": "Classic-McEliece-8192128",
+    "nist_level": 5,
+    "public_key_bytes": 1357824,
+    "ciphertext_bytes": 208,
+    "total_extra_bytes": 1358032,
+    "vs_rsa_2048_ratio": 2652.41,
+    "vs_ecdh_p256_ratio": 42438.5
+  },
+  {
+    "algorithm": "Classic-McEliece-8192128f",
+    "nist_level": 5,
+    "public_key_bytes": 1357824,
+    "ciphertext_bytes": 208,
+    "total_extra_bytes": 1358032,
+    "vs_rsa_2048_ratio": 2652.41,
+    "vs_ecdh_p256_ratio": 42438.5
+  }
+]
